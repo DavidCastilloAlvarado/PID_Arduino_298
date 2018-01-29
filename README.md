@@ -1,6 +1,6 @@
 # PID_Arduino_298
 Create a PID control of a DCMotor, using an arduino and L298 Driver.
-/********************************************************
+
 Lima - Perú ENE/2018
 AUTOR: Castillo Alvarado, David 
 PROYECTO: Control de Motor DC - PID(Z)
@@ -19,7 +19,10 @@ CONEXIÓN::::::::::::::::::::::::::
   IN2
   In PWM 
 FUENTES:::::::::::
+
   https://www.youtube.com/watch?v=c0L4gNKwjRw
+  
   https://playground.arduino.cc/Code/Timer1
+  
   https://playground.arduino.cc/Code/PIDLibrary
- ********************************************************/
+
