@@ -6,6 +6,8 @@ AUTOR: Castillo Alvarado, David
 
 PROYECTO: Control de Motor DC - PID(Z)
 
+VÍDEO DEL PROYECTO: https://www.youtube.com/watch?v=O4YxHEJCO7k&t=75s
+
 Descripción:
 
   El presente proyecto es una implementación didactica sobre el uso
